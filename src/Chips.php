@@ -83,5 +83,4 @@ class Chips
     
 
 
-//chips kleuren blauw, wit, rood en zwart
 
